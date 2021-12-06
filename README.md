@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="azul.shahar@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="ilana pervoi" height="30" width="40" /></a>
+  <a href="mailto:azul.shahar@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="ilana pervoi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shaharazoulai/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="ilana pervoi" height="30" width="40" /></a>
 </p>
 
