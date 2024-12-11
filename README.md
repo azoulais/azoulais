@@ -2,10 +2,9 @@
 <h3 align="center">I'm a Computer Science student at Ben-Gurion University of the Negev</h3>
 
 - 👋 Hi, I’m **Shahar Azoulai**
-- 👀 I’m interested in **Data Science and its applications**
-- 🌱 I’m currently learning Machine and Deep Learning
-- 💞️ I’m looking to collaborate on beginners open source projects
-- 🤝 I’m looking for new opportunities to **start my professional career**
+- - 🌱 I’m currently a M.Sc. student in Ben-Gurion University
+- 👀 I’m interested in **Computer Vision and Machine\Deep Learning** and I conduct a research under this topic.
+- 🤝 I’m looking for opportunities in these fields
 - 📫 azul.shahar@gmail.com
 
 
